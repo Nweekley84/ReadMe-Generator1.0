@@ -26,9 +26,10 @@ Requires the npm Inquirer package:  `npm install inquirer`
 
 **[Walkthrough Video](https://drive.google.com/file/d/1gPCJ_dqIpMakoYbMYaE8mSal5wnxktWe/view?usp=drive_link)**
 
-1. Run `node index` in terminal  
-2. Navigate through prompts  
-3. A file named `GOODREADME.md` will be generated in current directory  
+1. Run `npm i` in the terminal
+2. Run `node index` in terminal  
+3. Navigate through prompts  
+4. A file named `GOODREADME.md` will be generated in current directory  
 ![Demo-generated](./Assets/Screenshots/generated.png)
 
 ## Contributing  
